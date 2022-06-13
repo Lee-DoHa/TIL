@@ -10,5 +10,17 @@
    - 시간복잡도 : 알고리즘을 위해 필요한 연산의 횟수
    - 공간복잡도 : 알고리즘을 위해 필요한 메모리의 양
 
+   ### 시간과 메모리 측정
+   ```python
+   
+   import time
+   start_time = time.time()  # 측정 시작
+   
+   # 프로그램 소스코드
+   end_time = time.time()  # 측정 종료
+   print("time : ", end_time - start_time)  # 수행 시간 출력
+   
+   ```
+
 ## 3.
    
