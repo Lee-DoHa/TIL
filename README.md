@@ -9,7 +9,7 @@
 
 ### Python    
   
-### TypeScript 
+### TypeScript  
   
   
     
